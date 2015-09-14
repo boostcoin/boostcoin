@@ -1,0 +1,2 @@
+# boostcoin
+An AltCoin
